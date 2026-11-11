@@ -1,0 +1,429 @@
+country,continent
+Afghanistan,Asia
+Albania,Europe
+Algeria,Africa
+American Samoa,Oceania
+Andorra,Europe
+Angola,Africa
+Anguilla,North America
+Antarctica,Antarctica
+Antigua and Barbuda,North America
+Arab Republic of Egypt,Africa
+Argentina,South America
+Argentine Republic,South America
+Armenia,Asia
+Aruba,North America
+Australia,Oceania
+Austria,Europe
+Azerbaijan,Asia
+Bahamas,North America
+Bahrain,Asia
+Bangladesh,Asia
+Barbados,North America
+Belarus,Europe
+Belgium,Europe
+Belize,North America
+Benin,Africa
+Bermuda,North America
+Bhutan,Asia
+Bolivarian Republic of Venezuela,South America
+Bolivia,South America
+"Bolivia, Plurinational State of",South America
+"Bonaire, Sint Eustatius and Saba",North America
+Bosnia and Herzegovina,Europe
+Botswana,Africa
+Bouvet Island,Antarctica
+Brazil,South America
+British Indian Ocean Territory,Asia
+British Virgin Islands,North America
+Brunei,Asia
+Brunei Darussalam,Asia
+Bulgaria,Europe
+Burkina Faso,Africa
+Burundi,Africa
+Cabo Verde,Africa
+Cambodia,Asia
+Cameroon,Africa
+Canada,North America
+Cayman Islands,North America
+Central African Republic,Africa
+Chad,Africa
+Chile,South America
+China,Asia
+Christmas Island,Asia
+Cocos (Keeling) Islands,Asia
+Colombia,South America
+Commonwealth of Dominica,North America
+Commonwealth of the Bahamas,North America
+Commonwealth of the Northern Mariana Islands,Oceania
+Comoros,Africa
+Congo,Africa
+"Congo, The Democratic Republic of the",Africa
+Cook Islands,Oceania
+Costa Rica,North America
+Croatia,Europe
+Cuba,North America
+Curaçao,North America
+Cyprus,Asia
+Czech Republic,Europe
+Czechia,Europe
+Côte d'Ivoire,Africa
+Democratic People's Republic of Korea,Asia
+Democratic Republic of Sao Tome and Principe,Africa
+Democratic Republic of the Congo,Africa
+Democratic Socialist Republic of Sri Lanka,Asia
+Denmark,Europe
+Djibouti,Africa
+Dominica,North America
+Dominican Republic,North America
+East Timor,Asia
+Eastern Republic of Uruguay,South America
+Ecuador,South America
+Egypt,Africa
+El Salvador,North America
+Equatorial Guinea,Africa
+Eritrea,Africa
+Estonia,Europe
+Eswatini,Africa
+Ethiopia,Africa
+Falkland Islands (Malvinas),South America
+Faroe Islands,Europe
+Federal Democratic Republic of Ethiopia,Africa
+Federal Democratic Republic of Nepal,Asia
+Federal Republic of Germany,Europe
+Federal Republic of Nigeria,Africa
+Federal Republic of Somalia,Africa
+Federated States of Micronesia,Oceania
+Federative Republic of Brazil,South America
+Fiji,Oceania
+Finland,Europe
+France,Europe
+French Guiana,South America
+French Polynesia,Oceania
+French Republic,Europe
+Gabon,Africa
+Gabonese Republic,Africa
+Gambia,Africa
+Georgia,Asia
+Germany,Europe
+Ghana,Africa
+Gibraltar,Europe
+Grand Duchy of Luxembourg,Europe
+Greece,Europe
+Greenland,North America
+Grenada,North America
+Guadeloupe,North America
+Guam,Oceania
+Guatemala,North America
+Guernsey,Europe
+Guinea,Africa
+Guinea-Bissau,Africa
+Guyana,South America
+Haiti,North America
+Hashemite Kingdom of Jordan,Asia
+Heard Island and McDonald Islands,Antarctica
+Hellenic Republic,Europe
+Honduras,North America
+Hong Kong,Asia
+Hong Kong Special Administrative Region of China,Asia
+Hungary,Europe
+Iceland,Europe
+Independent State of Papua New Guinea,Oceania
+Independent State of Samoa,Oceania
+India,Asia
+Indonesia,Asia
+Iran,Asia
+"Iran, Islamic Republic of",Asia
+Iraq,Asia
+Ireland,Europe
+Islamic Republic of Afghanistan,Asia
+Islamic Republic of Iran,Asia
+Islamic Republic of Mauritania,Africa
+Islamic Republic of Pakistan,Asia
+Isle of Man,Europe
+Israel,Asia
+Italian Republic,Europe
+Italy,Europe
+Ivory Coast,Africa
+Jamaica,North America
+Japan,Asia
+Jersey,Europe
+Jordan,Asia
+Kazakhstan,Asia
+Kenya,Africa
+Kingdom of Bahrain,Asia
+Kingdom of Belgium,Europe
+Kingdom of Bhutan,Asia
+Kingdom of Cambodia,Asia
+Kingdom of Denmark,Europe
+Kingdom of Eswatini,Africa
+Kingdom of Lesotho,Africa
+Kingdom of Morocco,Africa
+Kingdom of Norway,Europe
+Kingdom of Saudi Arabia,Asia
+Kingdom of Spain,Europe
+Kingdom of Sweden,Europe
+Kingdom of Thailand,Asia
+Kingdom of Tonga,Oceania
+Kingdom of the Netherlands,Europe
+Kiribati,Oceania
+"Korea, Democratic People's Republic of",Asia
+"Korea, Republic of",Asia
+Kuwait,Asia
+Kyrgyz Republic,Asia
+Kyrgyzstan,Asia
+Lao People's Democratic Republic,Asia
+Laos,Asia
+Latvia,Europe
+Lebanese Republic,Asia
+Lebanon,Asia
+Lesotho,Africa
+Liberia,Africa
+Libya,Africa
+Liechtenstein,Europe
+Lithuania,Europe
+Luxembourg,Europe
+Macao,Asia
+Macao Special Administrative Region of China,Asia
+Madagascar,Africa
+Malawi,Africa
+Malaysia,Asia
+Maldives,Asia
+Mali,Africa
+Malta,Europe
+Marshall Islands,Oceania
+Martinique,North America
+Mauritania,Africa
+Mauritius,Africa
+Mayotte,Africa
+Mexico,North America
+Micronesia,Oceania
+"Micronesia, Federated States of",Oceania
+Moldova,Europe
+"Moldova, Republic of",Europe
+Monaco,Europe
+Mongolia,Asia
+Montenegro,Europe
+Montserrat,North America
+Morocco,Africa
+Mozambique,Africa
+Myanmar,Asia
+Namibia,Africa
+Nauru,Oceania
+Nepal,Asia
+Netherlands,Europe
+New Caledonia,Oceania
+New Zealand,Oceania
+Nicaragua,North America
+Niger,Africa
+Nigeria,Africa
+Niue,Oceania
+Norfolk Island,Oceania
+North Korea,Asia
+North Macedonia,Europe
+Northern Mariana Islands,Oceania
+Norway,Europe
+Oman,Asia
+Pakistan,Asia
+Palau,Oceania
+"Palestine, State of",Asia
+Panama,North America
+Papua New Guinea,Oceania
+Paraguay,South America
+People's Democratic Republic of Algeria,Africa
+People's Republic of Bangladesh,Asia
+People's Republic of China,Asia
+Peru,South America
+Philippines,Asia
+Plurinational State of Bolivia,South America
+Poland,Europe
+Portugal,Europe
+Portuguese Republic,Europe
+Principality of Andorra,Europe
+Principality of Liechtenstein,Europe
+Principality of Monaco,Europe
+Puerto Rico,North America
+Qatar,Asia
+Republic of Albania,Europe
+Republic of Angola,Africa
+Republic of Armenia,Asia
+Republic of Austria,Europe
+Republic of Azerbaijan,Asia
+Republic of Belarus,Europe
+Republic of Benin,Africa
+Republic of Bosnia and Herzegovina,Europe
+Republic of Botswana,Africa
+Republic of Bulgaria,Europe
+Republic of Burundi,Africa
+Republic of Cabo Verde,Africa
+Republic of Cameroon,Africa
+Republic of Chad,Africa
+Republic of Chile,South America
+Republic of Colombia,South America
+Republic of Costa Rica,North America
+Republic of Croatia,Europe
+Republic of Cuba,North America
+Republic of Cyprus,Asia
+Republic of Côte d'Ivoire,Africa
+Republic of Djibouti,Africa
+Republic of Ecuador,South America
+Republic of El Salvador,North America
+Republic of Equatorial Guinea,Africa
+Republic of Estonia,Europe
+Republic of Fiji,Oceania
+Republic of Finland,Europe
+Republic of Ghana,Africa
+Republic of Guatemala,North America
+Republic of Guinea,Africa
+Republic of Guinea-Bissau,Africa
+Republic of Guyana,South America
+Republic of Haiti,North America
+Republic of Honduras,North America
+Republic of Iceland,Europe
+Republic of India,Asia
+Republic of Indonesia,Asia
+Republic of Iraq,Asia
+Republic of Kazakhstan,Asia
+Republic of Kenya,Africa
+Republic of Kiribati,Oceania
+Republic of Latvia,Europe
+Republic of Liberia,Africa
+Republic of Lithuania,Europe
+Republic of Madagascar,Africa
+Republic of Malawi,Africa
+Republic of Maldives,Asia
+Republic of Mali,Africa
+Republic of Malta,Europe
+Republic of Mauritius,Africa
+Republic of Moldova,Europe
+Republic of Mozambique,Africa
+Republic of Myanmar,Asia
+Republic of Namibia,Africa
+Republic of Nauru,Oceania
+Republic of Nicaragua,North America
+Republic of North Macedonia,Europe
+Republic of Palau,Oceania
+Republic of Panama,North America
+Republic of Paraguay,South America
+Republic of Peru,South America
+Republic of Poland,Europe
+Republic of San Marino,Europe
+Republic of Senegal,Africa
+Republic of Serbia,Europe
+Republic of Seychelles,Africa
+Republic of Sierra Leone,Africa
+Republic of Singapore,Asia
+Republic of Slovenia,Europe
+Republic of South Africa,Africa
+Republic of South Sudan,Africa
+Republic of Suriname,South America
+Republic of Tajikistan,Asia
+Republic of Trinidad and Tobago,North America
+Republic of Tunisia,Africa
+Republic of Türkiye,Asia
+Republic of Uganda,Africa
+Republic of Uzbekistan,Asia
+Republic of Vanuatu,Oceania
+Republic of Yemen,Asia
+Republic of Zambia,Africa
+Republic of Zimbabwe,Africa
+Republic of the Congo,Africa
+Republic of the Gambia,Africa
+Republic of the Marshall Islands,Oceania
+Republic of the Niger,Africa
+Republic of the Philippines,Asia
+Republic of the Sudan,Africa
+Romania,Europe
+Russia,Europe
+Russian Federation,Europe
+Rwanda,Africa
+Rwandese Republic,Africa
+Réunion,Africa
+Saint Barthélemy,North America
+"Saint Helena, Ascension and Tristan da Cunha",Africa
+Saint Kitts and Nevis,North America
+Saint Lucia,North America
+Saint Martin (French part),North America
+Saint Pierre and Miquelon,North America
+Saint Vincent and the Grenadines,North America
+Samoa,Oceania
+San Marino,Europe
+Sao Tome and Principe,Africa
+Saudi Arabia,Asia
+Senegal,Africa
+Serbia,Europe
+Seychelles,Africa
+Sierra Leone,Africa
+Singapore,Asia
+Slovak Republic,Europe
+Slovakia,Europe
+Slovenia,Europe
+Socialist Republic of Viet Nam,Asia
+Solomon Islands,Oceania
+Somalia,Africa
+South Africa,Africa
+South Georgia and the South Sandwich Islands,South America
+South Korea,Asia
+South Sudan,Africa
+Spain,Europe
+Sri Lanka,Asia
+State of Israel,Asia
+State of Kuwait,Asia
+State of Qatar,Asia
+Sudan,Africa
+Sultanate of Oman,Asia
+Suriname,South America
+Svalbard and Jan Mayen,Europe
+Sweden,Europe
+Swiss Confederation,Europe
+Switzerland,Europe
+Syria,Asia
+Syrian Arab Republic,Asia
+Taiwan,Asia
+"Taiwan, Province of China",Asia
+Tajikistan,Asia
+Tanzania,Africa
+"Tanzania, United Republic of",Africa
+Thailand,Asia
+Timor-Leste,Asia
+Togo,Africa
+Togolese Republic,Africa
+Tokelau,Oceania
+Tonga,Oceania
+Trinidad and Tobago,North America
+Tunisia,Africa
+Turkey,Asia
+Turkmenistan,Asia
+Turks and Caicos Islands,North America
+Tuvalu,Oceania
+Türkiye,Asia
+UK,Europe
+USA,North America
+Uganda,Africa
+Ukraine,Europe
+Union of the Comoros,Africa
+United Arab Emirates,Asia
+United Kingdom,Europe
+United Kingdom of Great Britain and Northern Ireland,Europe
+United Mexican States,North America
+United Republic of Tanzania,Africa
+United States,North America
+United States of America,North America
+Uruguay,South America
+Uzbekistan,Asia
+Vanuatu,Oceania
+Vatican City,Europe
+Venezuela,South America
+"Venezuela, Bolivarian Republic of",South America
+Viet Nam,Asia
+Vietnam,Asia
+Virgin Islands of the United States,North America
+"Virgin Islands, British",North America
+"Virgin Islands, U.S.",North America
+Wallis and Futuna,Oceania
+Yemen,Asia
+Zambia,Africa
+Zimbabwe,Africa
+the State of Eritrea,Africa
+the State of Palestine,Asia
+Åland Islands,Europe
