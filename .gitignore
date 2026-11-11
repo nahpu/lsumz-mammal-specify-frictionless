@@ -224,3 +224,6 @@ __marimo__/
 .RData
 .Rproj.user/
 *.zip
+
+# Extracted NAHPU Data Packages
+data/extracted/

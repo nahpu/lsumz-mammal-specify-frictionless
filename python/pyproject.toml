@@ -8,6 +8,7 @@ dependencies = ["frictionless>=5.18"]
 
 [dependency-groups]
 dev = ["pytest>=8"]
+examples = ["pandas>=2"]
 
 [tool.uv]
 package = false

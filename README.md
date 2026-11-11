@@ -19,10 +19,12 @@ data/
     expected-specify.csv        the matching rows of the LSUMZ sheet
 python/
   nahpu_to_specify.py           Python converter (frictionless)
+  examples/field_catalog.py     write-your-own example (frictionless, pandas)
   pyproject.toml, uv.lock
   tests/
 R/
   nahpu_to_specify.R            R converter (frictionless, here, tidyverse)
+  examples/field_catalog.R      write-your-own example (frictionless, here, dplyr)
   tests/
 results/                        converted sheets are written here
 ```
@@ -86,6 +88,22 @@ Rscript -e 'testthat::test_file("R/tests/test-nahpu_to_specify.R")'
 
 Run without arguments, either converter turns the bundled example into
 `results/ambang-shrews-specify.csv`.
+
+## Write your own conversion
+
+`python/examples/field_catalog.py` and `R/examples/field_catalog.R` reshape the
+example package into a simple field catalog, one row per specimen with its
+parts in one cell. They are the worked example for
+[Tutorial 3: Write your own script to reshape a NAHPU Data Package](https://nahpu.app/en/tutorials/custom-data-package-script/).
+Both write `results/ambang-shrews-field-catalog.csv`:
+
+```bash
+cd python && uv sync --group examples && cd ..
+uv run --project python python python/examples/field_catalog.py
+Rscript R/examples/field_catalog.R
+```
+
+The examples extract the package into `data/extracted/`, which Git ignores.
 
 ## How the columns are filled
 
