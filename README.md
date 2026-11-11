@@ -89,23 +89,23 @@ Run without arguments, either converter turns the bundled example into
 
 ## How the columns are filled
 
-| Column | Source in the NAHPU Data Package |
-|---|---|
-| Catalog Number | `specimen.museumID` |
-| Class, Order, Family, Genus, Species | `taxonomy` of `specimen.speciesID` |
-| Sex | `mammalAttribute.sex`, decoded with `mappings/sqlite_enums.csv` |
-| Continent | `geography.country` looked up in `data/country-continent.csv` |
-| Country, State, County | `geography` of the collecting event's site |
-| Locality Name | `geography.municipality` and `locality`, joined with `; ` |
-| Elevation, Latitude, Longitude, MaxErrorDistance | the specimen's coordinate, or the event site's only coordinate |
-| Elevation Unit | `m` when an elevation is recorded |
-| Collector1LastName | cataloger's `personnel.name`, as `Last, First` |
-| Field Number | `specimen.fieldNumber` (project field number when unset) |
-| Start Date | `specimen.collectionDate`, as `dd/mm/yyyy` |
-| PrepType*n*, PrepType*n*Count, PrepType*n*Location | `specimenPart.type`, `count`, `storageLocation`, in part order |
-| Remarks | `mammalAttribute.remark` |
-| OtherCollection OtherCollNumber | left blank |
-| Total Length, TailLength, HFLength, Ear, Weight | `mammalAttribute` measurements |
+| Column                                             | Source in the NAHPU Data Package                                |
+| -------------------------------------------------- | --------------------------------------------------------------- |
+| Catalog Number                                     | `specimen.museumID`                                             |
+| Class, Order, Family, Genus, Species               | `taxonomy` of `specimen.speciesID`                              |
+| Sex                                                | `mammalAttribute.sex`, decoded with `mappings/sqlite_enums.csv` |
+| Continent                                          | `geography.country` looked up in `data/country-continent.csv`   |
+| Country, State, County                             | `geography` of the collecting event's site                      |
+| Locality Name                                      | `geography.municipality` and `locality`, joined with `; `       |
+| Elevation, Latitude, Longitude, MaxErrorDistance   | the specimen's coordinate, or the event site's only coordinate  |
+| Elevation Unit                                     | `m` when an elevation is recorded                               |
+| Collector1LastName                                 | cataloger's `personnel.name`, as `Last, First`                  |
+| Field Number                                       | `specimen.fieldNumber` (project field number when unset)        |
+| Start Date                                         | `specimen.collectionDate`, as `dd/mm/yyyy`                      |
+| PrepType*n*, PrepType*n*Count, PrepType*n*Location | `specimenPart.type`, `count`, `storageLocation`, in part order  |
+| Remarks                                            | `mammalAttribute.remark`                                        |
+| OtherCollection OtherCollNumber                    | left blank                                                      |
+| Total Length, TailLength, HFLength, Ear, Weight    | `mammalAttribute` measurements                                  |
 
 Notes:
 
@@ -121,10 +121,3 @@ Notes:
   two-word family names before uploading.
 - A country missing from `data/country-continent.csv` leaves `Continent` blank
   and prints a warning. Add the country to the file to fix it.
-
-## The example package
-
-`data/example/ambang-shrews.nahpu-dp.zip` was written with NAHPU's own package
-writer (`nahpu_dp`), using five specimens from the Mt. Ambang shrew survey.
-`expected-specify.csv` is those five rows of the original LSUMZ incoming sheet,
-so the tests check the converters against a real WorkBench sheet.
